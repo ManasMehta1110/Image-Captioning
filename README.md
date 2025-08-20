@@ -12,7 +12,8 @@ The model is trained and evaluated on the [MS COCO 2017](https://cocodataset.org
 - **Inference:** Greedy decoding and beam search supported.
 
 > **Note:** This repository does **not** contain the full training code.  
-> It contains only the trained model checkpoints saved after each epoch.
+> It contains only the trained model checkpoints saved after each epoch.  
+> The model was developed and trained entirely on **Google Colab**.
 
 ---
 
@@ -60,7 +61,7 @@ refer to the **project development notebook on Google Colab** (not included in t
 ---
 
 ## Collaborators
-- **Manas Mehta** *(GitHub: [ManasMehta1110]((https://github.com/ManasMehta1110))*
+- **Manas Mehta** *(GitHub: [ManasMehta1110](https://github.com/ManasMehta1110))*
 - **Vishvesh Sharma** *(GitHub: [VishveshSharma2005](https://github.com/VishveshSharma2005))*
 
 ---
